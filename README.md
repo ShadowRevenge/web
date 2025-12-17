@@ -11,6 +11,7 @@
     Привіт! Це мої перші сайти
     Вони разміщені безкоштовно на GitHub Pages.
     Я вчусь в веб-разробці!
+    https://shadowrevenge.github.io/web/
 
 </body>
 </html>
